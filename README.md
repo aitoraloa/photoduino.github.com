@@ -1,2 +1,1 @@
-photoduino.github.com
-=====================
+http://photoduino.github.com
