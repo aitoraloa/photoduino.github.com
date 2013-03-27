@@ -1,4 +1,4 @@
-jQuery(document).ready(function(){
+/*jQuery(document).ready(function(){
     if(jQuery.cookie != undefined) {
         // Check if cookie are enabled
         jQuery.cookie('wpml_browser_redirect_test', '1');
@@ -42,4 +42,4 @@ jQuery(document).ready(function(){
             }
         }
     }
-});
+});*/
